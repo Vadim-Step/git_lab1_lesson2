@@ -1,1 +1,15 @@
 В Demo меньше веток, коммитов и мержей, чем в Master.
+
+В удалённом репозитории я вижу 11 коммитов.
+Коментарии из них:
+Description
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
